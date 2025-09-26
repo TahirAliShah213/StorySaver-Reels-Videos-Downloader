@@ -99,7 +99,7 @@
   <p>This app is offered as-is without warranties. Your usage is voluntary, and you are fully responsible for ensuring your compliance with applicable laws and Instagram’s terms.</p>
 
   <h2>Contact Us</h2>
-  <p>📧 <a href="mailto:sumitra.devapps@gmail.com">sumitra.devapps@gmail.com</a></p>
+  <p>📧 <a href="mailto:sumitra.devapps@gmail.com">dev.nazamrana@gmail.com</a></p>
   <p>We appreciate your cooperation in using our app responsibly and respectfully.</p>
 </body>
 </html>
